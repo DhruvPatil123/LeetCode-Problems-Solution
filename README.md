@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
