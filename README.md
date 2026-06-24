@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -63,9 +64,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
