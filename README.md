@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
