@@ -78,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
