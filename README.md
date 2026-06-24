@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
