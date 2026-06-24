@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
