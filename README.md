@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
