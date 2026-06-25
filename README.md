@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -174,12 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
