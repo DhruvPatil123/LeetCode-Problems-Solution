@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
