@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Backtracking
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
