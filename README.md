@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1768-merge-strings-alternately) |
 ## Segment Tree
