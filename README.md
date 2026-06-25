@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
@@ -168,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Math
 |  |
