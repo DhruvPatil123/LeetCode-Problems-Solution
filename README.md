@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
