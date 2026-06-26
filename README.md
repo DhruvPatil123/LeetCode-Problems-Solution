@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
