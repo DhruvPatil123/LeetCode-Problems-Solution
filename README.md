@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
