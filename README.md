@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
