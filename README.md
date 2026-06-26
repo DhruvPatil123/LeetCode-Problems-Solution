@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
