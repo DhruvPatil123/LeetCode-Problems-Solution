@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Backtracking
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
