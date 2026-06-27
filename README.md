@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
@@ -443,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
