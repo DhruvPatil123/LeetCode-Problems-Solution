@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
