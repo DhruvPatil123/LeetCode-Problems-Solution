@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
