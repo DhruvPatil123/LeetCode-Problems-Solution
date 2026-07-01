@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
