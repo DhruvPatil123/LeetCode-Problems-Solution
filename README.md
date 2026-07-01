@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
