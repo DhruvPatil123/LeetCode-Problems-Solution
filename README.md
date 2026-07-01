@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
