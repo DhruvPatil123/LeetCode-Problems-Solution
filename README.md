@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
