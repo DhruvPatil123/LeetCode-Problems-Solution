@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2352-equal-row-and-column-pairs) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
