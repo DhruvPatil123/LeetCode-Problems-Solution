@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
