@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -673,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
