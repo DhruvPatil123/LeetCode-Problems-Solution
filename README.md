@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0918-maximum-sum-circular-subarray) |
