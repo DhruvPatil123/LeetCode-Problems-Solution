@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
