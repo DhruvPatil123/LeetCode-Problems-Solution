@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0162-find-peak-element) |
