@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0072-edit-distance) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
