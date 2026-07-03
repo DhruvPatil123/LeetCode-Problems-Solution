@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
