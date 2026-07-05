@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0062-unique-paths) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
