@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0289-game-of-life) |
