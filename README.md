@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0101-symmetric-tree) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0173-binary-search-tree-iterator) |
