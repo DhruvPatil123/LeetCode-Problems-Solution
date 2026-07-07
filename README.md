@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
