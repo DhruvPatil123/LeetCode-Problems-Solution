@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
