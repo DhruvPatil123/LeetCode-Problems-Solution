@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0162-find-peak-element) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0221-maximal-square) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
@@ -871,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -880,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
