@@ -944,4 +944,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
