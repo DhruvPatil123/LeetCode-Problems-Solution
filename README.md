@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -966,4 +970,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
