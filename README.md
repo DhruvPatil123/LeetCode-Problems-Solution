@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0196-delete-duplicate-emails) |
 ## Number Theory
 |  |
 | ------- |
