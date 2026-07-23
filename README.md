@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3620-network-recovery-pathways) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
