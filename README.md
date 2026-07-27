@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1732-find-the-highest-altitude) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
