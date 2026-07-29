@@ -1019,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0595-big-countries) |
