@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2542-maximum-subsequence-score) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
 | ------- |
