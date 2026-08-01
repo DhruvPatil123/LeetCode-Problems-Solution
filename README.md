@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0605-can-place-flowers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0790-domino-and-tromino-tiling) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1071,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
