@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0994-rotting-oranges) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1097,4 +1100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
