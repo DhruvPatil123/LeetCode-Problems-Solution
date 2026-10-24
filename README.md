@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1121,4 +1125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1406-stone-game-iii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
