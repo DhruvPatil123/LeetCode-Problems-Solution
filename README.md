@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0322-coin-change) |
