@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0283-move-zeroes) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
@@ -1177,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
