@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0228-summary-ranges) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0427-construct-quad-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1268-search-suggestions-system) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
@@ -990,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
@@ -1147,4 +1153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
