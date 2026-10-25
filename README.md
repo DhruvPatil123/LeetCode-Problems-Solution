@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
@@ -1161,4 +1165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0218-the-skyline-problem) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
