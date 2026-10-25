@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0901-online-stock-span) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0933-number-of-recent-calls) |
