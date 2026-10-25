@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0739-daily-temperatures) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvPatil123/LeetCode-Problems-Solution/tree/master/0628-maximum-product-of-three-numbers) |
